@@ -1,0 +1,3 @@
+
+[general]
+	import = ["rose-pine.toml"]
